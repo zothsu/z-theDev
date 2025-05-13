@@ -27,8 +27,8 @@ jobs:
         uses: easingthemes/ssh-deploy@v2.1.5
         with:
           ssh-private-key: ${{ secrets.SFTP_KEY }}
-          remote-user: ${{ secrets.FTP_USERNAME }}
-          server-ip: ${{ secrets.FTP_HOST }}
-          remote-path: ${{ secrets.FTP_TARGET }}
-          local-path: ./dist     
+          remote-user: ${{ secrets.SFTP_USER }}
+          server-ip: ${{ secrets.SFTP_HOST }}
+          remote-path: ${{ secrets.SFTP_PATH }}
+          local-path: ./dist
 
