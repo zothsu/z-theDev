@@ -28,6 +28,7 @@ jobs:
         with:
           SSH_PRIVATE_KEY : ${{ secrets.SSH_PRIVATE_KEY }}
           REMOTE_USER: ${{ secrets.REMOTE_USER }}
+          REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
           TARGET: ${{ secrets.TARGET }}
           REMOTE_PORT: ${{ secrets.REMOTE_PORT }}
           local-path: ./dist
