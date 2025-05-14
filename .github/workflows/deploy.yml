@@ -26,9 +26,9 @@ jobs:
       - name: Deploy via SFTP
         uses: easingthemes/ssh-deploy@v2.1.5
         with:
-          ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
-          remote-user: ${{ secrets.REMOTE_USER }}
-          remote-path: ${{ secrets.TARGET }}
-          remote-port: ${{ secrets.REMOTE_PORT }}
+          SSH_PRIVATE_KEY : ${{ secrets.SSH_PRIVATE_KEY }}
+          REMOTE_USER: ${{ secrets.REMOTE_USER }}
+          TARGET: ${{ secrets.TARGET }}
+          REMOTE_PORT: ${{ secrets.REMOTE_PORT }}
           local-path: ./dist
 
