@@ -1,6 +1,5 @@
 # z-theDev.xyz
 
-[![Deployment Status](https://github.com/zothsu/z-thedev.xyz/actions/workflows/deploy.yml/badge.svg)](https://github.com/zothsu/z-thedev.xyz/actions/workflows/deploy.yml) &nbsp; &nbsp;
 [![Built with Astro](https://astro.badg.es/v2/built-with-astro/small.svg)](https://astro.build) &nbsp; &nbsp;
 [![Accessible Astro Starter](https://img.shields.io/badge/Theme-Accessible_Astro-brightgreen.svg?style=for-the-badge)](https://accessible-astro.incluud.dev/)
 
