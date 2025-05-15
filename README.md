@@ -12,7 +12,7 @@
 
 ## TODO
 
-- [ ] Replace portfolio projects with current [projects] from live portfolio (https://z-thedev.com/portfolio)
+- [ ] Replace portfolio projects with current [projects] from live portfolio (<https://z-thedev.com/portfolio>)
 - [ ] Update all current blogs:
   - [ ] Change titles to topics you'd like to write about
   - [ ] Add brief descriptions for each post
@@ -94,12 +94,14 @@ This project began as a fork of [accessible-astro-starter](https://accessible-as
 
 ## Getting Started
 
+```sh
 git clone https://github.com/zothsu/z-thedev.xyz.git  
 cd z-thedev.xyz  
 npm install  
 npm run dev       # Start dev server at localhost:4321  
 npm run build     # Build for production  
 npm run preview   # Preview the production build  
+```
 
 ---
 
