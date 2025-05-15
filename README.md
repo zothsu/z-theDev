@@ -10,6 +10,28 @@
 
 ---
 
+## TODO
+
+- [ ] Replace portfolio projects with current [projects] from live portfolio (https://z-thedev.com/portfolio)
+- [ ] Update all current blogs:
+  - [ ] Change titles to topics you'd like to write about
+  - [ ] Add brief descriptions for each post
+- [ ] Update the SVG for the logo
+- [ ] Add GitHub profile link into the navigation bar
+- [ ] Remove outdated Docs link from the navigation bar and replace it with an "About" link
+- [ ] Review and refine all navigation elements for consistency
+- [ ] Test all links to ensure proper redirection
+- [ ] Optimize image assets for faster load times
+- [ ] Verify accessibility compliance:
+  - [ ] Check ARIA labels and landmarks
+  - [ ] Test keyboard navigation
+- [ ] Audit SEO metadata for current pages
+- [ ] Enhance responsive design for smaller devices:
+  - [ ] Adjust breakpoints in Tailwind CSS settings
+- [ ] Refactor code in critical components for better maintainability
+- [ ] Implement unit tests for critical functions
+- [ ] Find MD issue that is causing checkboxes to display incorrectly
+
 ## Table of Contents
 
 - [Background](#background)
