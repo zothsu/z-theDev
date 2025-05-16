@@ -2,6 +2,7 @@
 title: PeterConlin.com
 author: Z Sullivan
 description: A showcase of Peter Conlin’s work in cinematic design, game development, and environment art.
+img: "/social-preview-image.png"
 ---
 
 ## Project Overview
