@@ -11,7 +11,7 @@
 
 ## TODO
 
-- [ ] Replace portfolio projects with current [projects] from live portfolio (<https://z-thedev.com/portfolio>)
+- [x] Replace portfolio projects with current [projects] from live portfolio (<https://z-thedev.com/portfolio>)
 - [ ] Update all current blogs:
   - [ ] Change titles to topics you'd like to write about
   - [ ] Add brief descriptions for each post
