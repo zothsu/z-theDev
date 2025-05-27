@@ -2,6 +2,7 @@
 title: Sharpening Tracker
 author: Z Sullivan
 description: MERN stack CRUD app to help users track knife sharpening sessions and record stone usage.
+status: Archive
 ---
 
 ## Project Overview

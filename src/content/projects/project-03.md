@@ -2,6 +2,7 @@
 title: TwoSistersPlayCafe.net
 author: Z Sullivan
 description: Redesign of a WordPress website, prioritizing SEO and accessibility optimization for a local play cafe.
+status: Archive
 ---
 
 ## Project Overview
