@@ -3,7 +3,7 @@ title: z-theDev.xyz
 author: Z Sullivan
 description: Portfolio sandbox site for web developer Z Sullivan.
 status: Featured
-img: z.png
+img: "z.png"
 ---
 [z-thedev.xyz](z-thedev.xyz)
 
