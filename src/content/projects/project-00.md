@@ -5,7 +5,8 @@ description: Portfolio sandbox site for web developer Z Sullivan.
 status: Featured
 img: "z.png"
 ---
-[z-thedev.xyz](z-thedev.xyz)
+
+![z.png]({z.png})
 
 ## Project Overview
 
@@ -28,5 +29,3 @@ Pairing this with git status gives you the full picture: git status shows which 
 ## Testimonial
 
 > "Z was the best to work with, it's as if we are one mind."
-
----
