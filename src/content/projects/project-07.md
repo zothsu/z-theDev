@@ -7,11 +7,18 @@ status: Archive
 
 ## Project Overview
 
-A Django-based social platform where users can share and explore affordable home decor ideas and collaborate with others to create inspiring spaces.
+InspireMe Home Decor is a social web app built with Django, empowering users to share DIY projects, decor hacks, and budget-friendly ideas for transforming living spaces. The platform encourages real-time collaboration and inspiration through user-generated content, media sharing, and community interaction.
 
-## Technical Challenges
+## Technical Highlights
 
-Designing a flexible content model and UI to accommodate collaborative posts, comments, and visual media uploads.
+- Designed Django models to support user posts, comments, and media galleries  
+- Integrated Django admin for easy content moderation  
+- Implemented responsive, user-friendly UI using Django templates and CSS  
+- Focused on clear organization to help users navigate by room, style, or budget
+
+## Lessons Learned
+
+Building this platform sharpened my skills in model design, media handling, and creating intuitive user experiences for collaborative content.
 
 ## Testimonial
 
