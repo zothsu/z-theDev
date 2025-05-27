@@ -5,13 +5,21 @@ description: MERN stack CRUD app to help users track knife sharpening sessions a
 status: Archive
 ---
 
+
 ## Project Overview
 
-Built a MERN stack application enabling users to log and track knife sharpening sessions, including details about the stones used.
+Sharpening Tracker is a MERN stack application created to help knife users keep detailed records of their sharpening sessions. It allows users to log session dates, blade types, and sharpening stones used, making it easier to maintain their tools over time.
 
-## Technical Challenges
+## Technical Highlights
 
-Ensuring seamless CRUD operations and an intuitive user interface for efficient tracking.
+- Built with MongoDB, Express, React, and Node.js  
+- Full CRUD functionality for session tracking  
+- Designed a clean UI for logging and browsing sharpening history  
+- Included validation and error handling for better user experience
+
+## Lessons Learned
+
+This project strengthened my full-stack development skills and highlighted the importance of thoughtful data modeling and UX design in niche tools.
 
 ## Testimonial
 
