@@ -3,6 +3,7 @@ title: CakeMoments.art
 author: Z Sullivan
 description: A clean, user-friendly website for a local cake consultant, featuring an intuitive appointment scheduling system and image-rich service portfolio.
 status: Archive
+img: cake.png
 ---
 
 ## Project Overview

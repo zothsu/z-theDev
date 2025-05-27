@@ -2,7 +2,7 @@
 title: NextGenDoulas.org
 author: Z Sullivan
 description: Official website for Next Generation Doulas, a trauma-informed doula service dedicated to improving access to birth and postpartum care.
-img: https://i.imgur.com/2a12B4s.png
+img: "/emDoula.png"
 status: Featured
 ---
 ## Project Overview

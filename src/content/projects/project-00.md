@@ -4,6 +4,7 @@ author: Z Sullivan
 description: Portfolio sandbox site for web developer Z Sullivan.
 img: https://i.imgur.com/2a12B4s.png
 status: Featured
+img: z.png
 ---
 [z-thedev.xyz](z-thedev.xyz)
 
