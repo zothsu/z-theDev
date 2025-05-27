@@ -1,4 +1,8 @@
-<svg width="47" height="37" viewBox="0 0 47 37" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M15.5092 1.89746H35.3259L20.7566 23.6923H0.939941L15.5092 1.89746Z" fill="#42E0CE"/>
-<path d="M16.3771 25.7122L10.7341 34.1539H31.4908L46.0601 12.3591H30.7403L21.8141 25.7122H16.3771Z" fill="#A14FD6"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g>
+        <path d="M166.892,69.385L390.357,69.385L226.065,315.018L2.6,315.018L166.892,69.385Z" style="fill:rgb(9,145,0);fill-rule:nonzero;stroke:rgb(66,224,206);stroke-width:1px;"/>
+        <path d="M176.677,337.783L113.043,432.923L347.108,432.923L511.4,187.29L338.645,187.29L237.988,337.783L176.677,337.783Z" style="fill:rgb(161,79,214);fill-rule:nonzero;stroke:rgb(9,145,0);stroke-width:1px;"/>
+    </g>
 </svg>
