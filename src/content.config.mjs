@@ -12,6 +12,7 @@ const projects = defineCollection({
     author: z.string(),
     description: z.string(),
     img: z.string().optional(),
+    status: z.enum('Featured').optional()
   }),
 })
 

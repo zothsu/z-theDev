@@ -1,7 +1,7 @@
 ---
-title: NextGenDoulas.org
+title: z-theDev.xyz
 author: Z Sullivan
-description: Official website for Next Generation Doulas, a trauma-informed doula service dedicated to improving access to birth and postpartum care.
+description: Portfolio sandbox site for web developer Z Sullivan.
 img: https://i.imgur.com/2a12B4s.png
 status: Featured
 ---
