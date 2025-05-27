@@ -7,11 +7,18 @@ status: Archive
 
 ## Project Overview
 
-Developed a MEN stack application for neurodivergent individuals to log and reference campground experiences, focusing on sensory aspects.
+The NeuroSpicy Camper is a web app designed to support neurodivergent individuals in finding sensory-friendly camping locations. Built with the MEN stack (MongoDB, Express, Node.js), it lets users document and share experiences at various campgrounds, with a focus on factors like noise levels, crowd density, and overall comfort.
 
-## Technical Challenges
+## Technical Highlights
 
-Designing a user-friendly interface that allows detailed note-taking and easy retrieval of information.
+- Created a clean, minimal UI optimized for easy note entry  
+- Designed data models to support nuanced campground ratings  
+- Implemented robust form validation and filtering functionality  
+- Prioritized accessibility and low-stimulation design patterns
+
+## Lessons Learned
+
+This project deepened my understanding of inclusive design and how thoughtful development can directly support user well-being in real-world settings.
 
 ## Testimonial
 
