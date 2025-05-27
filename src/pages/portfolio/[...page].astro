@@ -41,6 +41,7 @@ const { page } = Astro.props
                 title={project.data.title}
                 footer={'Author: ' + project.data.author}
                 img={project.data.img}
+                class={project.data.status}
               >
                 {project.data.description}
               </Card>
