@@ -10,6 +10,9 @@ img: "/twoSisters.png"
 
 Two Sisters Play Cafe is a vibrant café and indoor play space designed for families with young children. I created a straightforward, well-organized WordPress website that showcases the café’s offerings, from its locally sourced menu to birthday party packages and daily hours. The goal was to help busy parents quickly find what they need—whether it’s planning a party or checking open play times.
 
+
+![Screenshot of Two Sisters Play Cafe site](/twoSisters.png)
+
 ## Technical Challenges
 
 This project centered on balancing clear content layout with a cozy, playful aesthetic. I customized the WordPress theme to highlight key sections like the café menu, booking details, and FAQs, all while keeping navigation intuitive. Ensuring the content was easy to update for the owners was also a priority, so the backend is tailored for non-technical users.

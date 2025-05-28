@@ -10,6 +10,8 @@ status: Featured
 
 I developed a sleek, dark-themed portfolio website for Peter Conlin, a Seattle-based 3D cinematic artist and game developer. The site showcases his diverse body of work, including projects like Autonima, Remote Orbit, and Life is Strange: Double Exposure. Emphasizing a minimalist design with orange accents and light tan text, the website provides an immersive experience that aligns with Peter’s artistic vision. ￼ ￼
 
+![Screenshot of Peter Conlin's Portfolio site](/peterConlin.png)
+
 ## Technical Challenges
 
 Creating a responsive and accessible design that complements Peter’s dark aesthetic was a key focus. Ensuring optimal performance across devices and integrating high-resolution media without compromising load times required careful optimization. ￼

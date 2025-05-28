@@ -9,7 +9,7 @@ status: Featured
 
 This site was kept purposefully simple to allow me to experiment with vanilla HTML and CSS, focusing on semantic structure and clean, accessible markup. You can view the live site at nextgendoulas.org.
 
-I designed and built a secure, fast, and user-friendly static website for Next Generation Doulas, a trauma-informed doula service focused on improving access to inclusive birth and postpartum care. The site prioritizes accessibility and mobile responsiveness while offering clear, compassionate content for expectant families. Built with Astro and Tailwind CSS, the site delivers a modern, performance-optimized experience for users and admins alike.
+![Screenshot of Emilies Portfolio site](/emDoula.png)
 
 ## Technical Challenges
 

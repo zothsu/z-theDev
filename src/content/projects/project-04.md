@@ -3,12 +3,15 @@ title: CakeMoments.art
 author: Z Sullivan
 description: A clean, user-friendly website for a local cake consultant, featuring an intuitive appointment scheduling system and image-rich service portfolio.
 status: Archive
-img: cake.png
+img: "/cake.png"
 ---
 
 ## Project Overview
 
 CakeMoments.art is a minimalist portfolio site designed for a bespoke cake artist who wanted a professional way to showcase their work to existing and potential clients—without worrying about SEO or public discovery. The focus was on creating a private, polished space that reflects the quality of their craft and makes it easy to share a curated gallery on request.
+
+
+![Screenshot of Z's website site](/cake.png)
 
 ## Technical Challenges
 

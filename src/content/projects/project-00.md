@@ -3,14 +3,16 @@ title: z-theDev.xyz
 author: Z Sullivan
 description: Portfolio sandbox site for web developer Z Sullivan.
 status: Featured
-img: "z.png"
+img: "/z.png"
 ---
-
-![z.png]({z.png})
 
 ## Project Overview
 
 Developed a secure, fast, and user-friendly static website for a trauma-informed doula service. The site emphasizes accessibility and provides comprehensive information on birth and postpartum care services.
+
+This project serves as a modern showcase of accessible, performance-first web design. It was built with an emphasis on clean code, semantic HTML, and responsive styling, using technologies like Astro and Tailwind CSS. The site not only focuses on a minimalist aesthetic to highlight content but also prioritizes user accessibility across all devices. By blending intuitive navigation with robust technical solutions—such as automated deployments and structured content management—the project delivers a secure and user-friendly experience that meets both design and performance standards.
+
+![z.png](/z.png)
 
 ## Technical Challenges
 
