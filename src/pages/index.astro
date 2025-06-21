@@ -20,61 +20,61 @@ import { Accordion, AccordionItem } from 'accessible-astro-components'
       I build with semantic HTML to provide meaningful structure for browsers and assistive technologies. This includes landmarks, skip links, screen reader-friendly content, ARIA labels, and keyboard-accessible navigation and components.
     </p>
   </ContentMedia>
+  <section class="my-64">
+    <div class="container grid grid-cols-1 gap-12 md:grid-cols-2">
+      <div class="flex flex-col items-start gap-4">
+        <h2 class="text-6xl">FAQ</h2>
+        <p class="text-2xl">
+          Maybe you have some questions for me, maybe I've guessed what they are have answered them here.
+        </p>
+        <p class="text-2xl">
+          More questions?<br />Make an appointment to chat with me at https://cal.com/z-thedev. Don't feel like video chatting? E-mail me directly at
+          <a href="mailto:faq@z-thedev.com">faq@z-thedev.com</a>
+        </p>
+      </div>
+      <div class="space-content">
+        <Accordion>
+          <AccordionItem name="exclusive" title="Why Z - theDev?" open>
+            <p>
+              My name is Z, just the letter and I'm your neighborhood dev. I can help you decide what you need in a
+              website, whether that's me, Squarespace, or your friendly neighborhood AI, I'll guide you through every step
+              of creating the website that perfectly fits your needs.
+            </p>
+          </AccordionItem>
+          <AccordionItem name="exclusive" title="How do I hire you to make my website">
+            <p>
+              To hire me, please reach out via the contact form on my website or email me directly at
+              <a href="mailto:faq@z-thedev.com">faq@z-thedev.com</a> and provide details about your project, including your
+              requirements, timeline, and budget. I'll get back to you as soon as possible to discuss further. I look forward
+              to hearing from you!
+            </p>
+          </AccordionItem>
+          <AccordionItem name="exclusive" title="I have a domain name, now what?">
+            <p>
+              Now you need somewhere to host your website, think of this as a little space on the internet that you rent.
+              Next is building your site which can be done with AI but will set you back financially in the long run.
+              After all, you should be able to get your rental on the internet for much cheaper than 16 USD as of the time
+              of writing.By providing you with the website and the rental for your space on the internet, I am able to
+              keep costs reasonable.
+            </p>
+          </AccordionItem>
+          <AccordionItem name="exclusive" title="How do I make my website accessible?">
+            <p>
+              To make your website accessible, follow these key principles: use semantic HTML, provide text alternatives
+              for non-text content, ensure keyboard navigation, maintain a logical heading structure, use ARIA roles and
+              properties when necessary, and ensure sufficient color contrast. Regularly test with screen readers and
+              keyboard navigation to ensure a smooth experience for all users.
+              <br />
+              TLDR
+              <blockquote>
+                Hire someone who knows this technobabble and forget about it. Or you can hire me and I will translate the
+                technobabble for you, keeping you educated about your website but also saving you from the headache of
+                dealing with it.
+              </blockquote>
+            </p>
+          </AccordionItem>
+        </Accordion>
+      </div>
+    </div>
+  </section>  
 </DefaultLayout>
-<section class="my-64">
-  <div class="container grid grid-cols-1 gap-12 md:grid-cols-2">
-    <div class="flex flex-col items-start gap-4">
-      <h2 class="text-6xl">FAQ</h2>
-      <p class="text-2xl">
-        Maybe you have some questions for me, maybe I've guessed what they are have answered them here.
-      </p>
-      <p class="text-2xl">
-        More questions?<br />Make an appointment to chat with me at https://cal.com/z-thedev. Don't feel like video chatting? E-mail me directly at
-        <a href="mailto:faq@z-thedev.com">faq@z-thedev.com</a>
-      </p>
-    </div>
-    <div class="space-content">
-      <Accordion>
-        <AccordionItem name="exclusive" title="Why Z - theDev?" open>
-          <p>
-            My name is Z, just the letter and I'm your neighborhood dev. I can help you decide what you need in a
-            website, whether that's me, Squarespace, or your friendly neighborhood AI, I'll guide you through every step
-            of creating the website that perfectly fits your needs.
-          </p>
-        </AccordionItem>
-        <AccordionItem name="exclusive" title="How do I hire you to make my website">
-          <p>
-            To hire me, please reach out via the contact form on my website or email me directly at
-            <a href="mailto:faq@z-thedev.com">faq@z-thedev.com</a> and provide details about your project, including your
-            requirements, timeline, and budget. I'll get back to you as soon as possible to discuss further. I look forward
-            to hearing from you!
-          </p>
-        </AccordionItem>
-        <AccordionItem name="exclusive" title="I have a domain name, now what?">
-          <p>
-            Now you need somewhere to host your website, think of this as a little space on the internet that you rent.
-            Next is building your site which can be done with AI but will set you back financially in the long run.
-            After all, you should be able to get your rental on the internet for much cheaper than 16 USD as of the time
-            of writing.By providing you with the website and the rental for your space on the internet, I am able to
-            keep costs reasonable.
-          </p>
-        </AccordionItem>
-        <AccordionItem name="exclusive" title="How do I make my website accessible?">
-          <p>
-            To make your website accessible, follow these key principles: use semantic HTML, provide text alternatives
-            for non-text content, ensure keyboard navigation, maintain a logical heading structure, use ARIA roles and
-            properties when necessary, and ensure sufficient color contrast. Regularly test with screen readers and
-            keyboard navigation to ensure a smooth experience for all users.
-            <br />
-            TLDR
-            <blockquote>
-              Hire someone who knows this technobabble and forget about it. Or you can hire me and I will translate the
-              technobabble for you, keeping you educated about your website but also saving you from the headache of
-              dealing with it.
-            </blockquote>
-          </p>
-        </AccordionItem>
-      </Accordion>
-    </div>
-  </div>
-</section>
