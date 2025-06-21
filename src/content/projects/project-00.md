@@ -1,7 +1,7 @@
 ---
-title: z-theDev.xyz
+title: ztheDev.com
 author: Z Sullivan
-description: Portfolio sandbox site for web developer Z Sullivan.
+description: Portfolio site for web developer Z Sullivan.
 status: Featured
 img: "/z.png"
 ---
