@@ -3,7 +3,7 @@ title: The NeuroSpicy Camper
 author: Z Sullivan
 description: MEN stack app for neurodivergent individuals to log campground experiences focused on sensory needs like sound and crowd levels.
 status: Archive
-img: https://i.imgur.com/2a12B4s.png
+img: /brandmark.png
 ---
 
 ## Project Overview

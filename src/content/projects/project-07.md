@@ -3,7 +3,7 @@ title: InspireMe Home Decor
 author: Z Sullivan
 description: Django CRUD app for connecting home decor enthusiasts to collaborate on budget-friendly and creative solutions.
 status: Archive
-img: https://i.imgur.com/2a12B4s.png
+img: /brandmark.png
 ---
 
 ## Project Overview
