@@ -2,7 +2,10 @@
 title: Open Source Calendar
 slug: calendar
 publishDate: 01 July 2025
-description: Why I use Cal.com instead of Calendy or The Benefits of Using Cal.com - An Open Source Solution for Small Businesses
+description: The Benefits of Using Cal.com - An Open Source Solution for Small Businesses
+img:
+  src: 
+  alt:
 ---
 
 ## <a name="top"></a> Table of Contents

@@ -3,6 +3,9 @@ title: Open Source Projects You Should Know About
 slug: openSource
 publishDate: 01 June 2025
 description: A description
+img:
+  src:
+  alt:
 ---
 
 ## <a name="top"></a> Table of Contents

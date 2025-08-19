@@ -23,6 +23,10 @@ const posts = defineCollection({
     slug: z.string(),
     publishDate: z.union([z.string(), z.date()]),
     description: z.string(),
+    image: z.object({
+      src: z.string(),
+      alt: z.string(),
+    }).optional(),
   }),
 });
 
